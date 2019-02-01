@@ -22,8 +22,6 @@
       <change afterPath="$PROJECT_DIR$/mfscrm/mfscrm/settings.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mfscrm/mfscrm/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mfscrm/mfscrm/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +30,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mfscrm/crm/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,8 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mfscrm/crm/models.py" />
-        <option value="$PROJECT_DIR$/mfscrm/crm/admin.py" />
         <option value="$PROJECT_DIR$/mfscrm/crm/forms.py" />
         <option value="$PROJECT_DIR$/mfscrm/mfscrm/urls.py" />
         <option value="$PROJECT_DIR$/mfscrm/crm/templates/customer_edit.html" />
@@ -59,6 +68,8 @@
         <option value="$PROJECT_DIR$/mfscrm/crm/templates/crm/customer_list.html" />
         <option value="$PROJECT_DIR$/mfscrm/crm/views.py" />
         <option value="$PROJECT_DIR$/mfscrm/crm/urls.py" />
+        <option value="$PROJECT_DIR$/mfscrm/crm/models.py" />
+        <option value="$PROJECT_DIR$/mfscrm/crm/admin.py" />
       </list>
     </option>
   </component>
@@ -90,21 +101,6 @@
               <item name="foodservice" type="b2602c69:ProjectViewProjectNode" />
               <item name="foodservice" type="462c0819:PsiDirectoryNode" />
               <item name="mfscrm" type="462c0819:PsiDirectoryNode" />
-              <item name="crm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodservice" type="462c0819:PsiDirectoryNode" />
-              <item name="mfscrm" type="462c0819:PsiDirectoryNode" />
-              <item name="crm" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="foodservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="foodservice" type="462c0819:PsiDirectoryNode" />
-              <item name="mfscrm" type="462c0819:PsiDirectoryNode" />
-              <item name="crm" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="crm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -149,15 +145,16 @@
       <option name="presentableId" value="Default" />
       <updated>1548885637177</updated>
       <workItem from="1548885638427" duration="5069000" />
-      <workItem from="1549024827836" duration="7233000" />
+      <workItem from="1549024827836" duration="8220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12302000" />
+    <option name="totallyTimeSpent" value="13289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1369936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -211,13 +208,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mfscrm/crm/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mfscrm/crm/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mfscrm/crm/forms.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -302,10 +292,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mfscrm/crm/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        <state relative-caret-position="1360">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mfscrm/crm/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
